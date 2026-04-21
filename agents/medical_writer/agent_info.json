@@ -1,0 +1,13 @@
+{
+  "id": "medical_writer",
+  "type": "Medical Writer",
+  "capabilities": [
+    "paper_writing",
+    "literature_review",
+    "method_description",
+    "result_reporting"
+  ],
+  "status": "idle",
+  "registered_at": "2026-02-22T21:27:57.148042",
+  "last_heartbeat": "2026-02-22T21:27:57.148054"
+}

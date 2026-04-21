@@ -1,0 +1,13 @@
+{
+  "id": "clinical_analyst",
+  "type": "Clinical Analyst",
+  "capabilities": [
+    "data_analysis",
+    "statistical_testing",
+    "result_interpretation",
+    "chart_generation"
+  ],
+  "status": "idle",
+  "registered_at": "2026-02-22T21:27:57.147268",
+  "last_heartbeat": "2026-02-22T21:27:57.147351"
+}

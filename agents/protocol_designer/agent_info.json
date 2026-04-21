@@ -1,0 +1,13 @@
+{
+  "id": "protocol_designer",
+  "type": "Protocol Designer",
+  "capabilities": [
+    "study_design",
+    "sample_size_calculation",
+    "ethical_considerations",
+    "protocol_writing"
+  ],
+  "status": "idle",
+  "registered_at": "2026-02-22T21:27:57.148539",
+  "last_heartbeat": "2026-02-22T21:27:57.148549"
+}

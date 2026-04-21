@@ -1,0 +1,29 @@
+{
+  "id": "task_001",
+  "description": "Analyze the relationship between exercise habits and stroke risk in diabetic patients",
+  "requirements": [
+    "clinical_data_analysis",
+    "survival_analysis",
+    "risk_ratio_calculation"
+  ],
+  "priority": "high",
+  "status": "completed",
+  "created_at": "2026-02-22T21:27:57.150565",
+  "assigned_agent": "clinical_analyst",
+  "result": {
+    "task_id": "task_001",
+    "agent_id": "clinical_analyst",
+    "result": {
+      "analysis": "Completed survival analysis",
+      "findings": "Regular exercise associated with 25% lower stroke risk",
+      "charts": [
+        "km_curve.png",
+        "forest_plot.png"
+      ]
+    },
+    "submitted_at": "2026-02-22T21:27:57.156996",
+    "status": "completed"
+  },
+  "assigned_at": "2026-02-22T21:27:57.154164",
+  "completed_at": "2026-02-22T21:27:57.158170"
+}
