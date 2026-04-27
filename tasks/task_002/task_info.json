@@ -1,0 +1,15 @@
+{
+  "id": "task_002",
+  "description": "Write the statistical methods section for the coronary heart disease exercise study paper",
+  "requirements": [
+    "statistical_method_description",
+    "R_code_documentation",
+    "chart_explanation"
+  ],
+  "priority": "medium",
+  "status": "assigned",
+  "created_at": "2026-02-22T21:27:57.151513",
+  "assigned_agent": "medical_writer",
+  "result": null,
+  "assigned_at": "2026-02-22T21:27:57.155303"
+}

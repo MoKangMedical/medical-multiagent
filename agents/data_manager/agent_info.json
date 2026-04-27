@@ -1,0 +1,13 @@
+{
+  "id": "data_manager",
+  "type": "Data Manager",
+  "capabilities": [
+    "data_cleaning",
+    "quality_control",
+    "data_security",
+    "document_management"
+  ],
+  "status": "idle",
+  "registered_at": "2026-02-22T21:27:57.149040",
+  "last_heartbeat": "2026-02-22T21:27:57.149050"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "project_coordinator",
+  "type": "Project Coordinator",
+  "capabilities": [
+    "task_assignment",
+    "progress_tracking",
+    "team_coordination",
+    "report_generation"
+  ],
+  "status": "idle",
+  "registered_at": "2026-02-22T21:27:57.149671",
+  "last_heartbeat": "2026-02-22T21:27:57.149684"
+}
