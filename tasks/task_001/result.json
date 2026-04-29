@@ -1,0 +1,14 @@
+{
+  "task_id": "task_001",
+  "agent_id": "clinical_analyst",
+  "result": {
+    "analysis": "Completed survival analysis",
+    "findings": "Regular exercise associated with 25% lower stroke risk",
+    "charts": [
+      "km_curve.png",
+      "forest_plot.png"
+    ]
+  },
+  "submitted_at": "2026-02-22T21:27:57.156996",
+  "status": "completed"
+}
